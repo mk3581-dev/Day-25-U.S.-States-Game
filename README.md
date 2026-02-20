@@ -72,3 +72,5 @@ File generation in Python
 🧠 Learning Outcome
 
 This project demonstrates how data science tools like Pandas can integrate with graphical interfaces to create interactive educational games.
+
+Author - Mohit Kunwar
