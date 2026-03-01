@@ -33,7 +33,7 @@ us-states-game/
 └── README.md
 🚀 How to Run
 1️⃣ Clone the repository
-git clone https://github.com/your-username/us-states-game.git
+git clone https://github.com/mk3581-dev/Day-25-U.S.-States-Game/edit/main/README.md
 cd us-states-game
 2️⃣ Install dependencies
 pip install pandas
